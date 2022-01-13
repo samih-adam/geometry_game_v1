@@ -6,3 +6,5 @@
 2. Writing a class for each object
 3. writing methods for each class
 4. Calling classes and their methods
+
+## Creating a Class
